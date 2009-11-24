@@ -1,6 +1,6 @@
 h3. Description
 
-A simple template for jQuery plugins. See the "blog post": for a detailed explanation.
+A simple template for jQuery plugins. See the "blog post":http://jduff.github.com/2009/11/23/expanding-my-skills/ for a detailed explanation.
 
 h3. References
 
